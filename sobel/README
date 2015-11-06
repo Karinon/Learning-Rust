@@ -1,0 +1,8 @@
+A Rust implementation of the Sobel operator for PGM images.
+
+For further information please see https://en.wikipedia.org/wiki/Sobel_operator 
+
+ToDo:
+ - Parallelization
+ - Support for other image formats
+ - Colorize output
